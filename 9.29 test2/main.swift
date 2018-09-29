@@ -8,5 +8,10 @@
 
 import Foundation
 
-print("Hello, World!")
-
+var i=0;var j=0;var sum=0
+while j<101
+{
+    sum=sum+j
+    j=j+1
+}
+print(sum)
